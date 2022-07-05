@@ -1,6 +1,6 @@
 <script lang="ts">
   const handleClick = () => {
-    document.cookie = "enthous_team=wilbertbocanegravelazquez; SameSite=None";
+    document.cookie = "enthous_team=again; SameSite=None; Secure";
   };
 </script>
 
